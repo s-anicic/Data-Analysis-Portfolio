@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae 
 
 ## Featured Projects
 
-### [Project 1: Exploratory Data Analysis - SpaceX](././Portfolio-Projects/SpaceX_EDA_Time_series_analysis_of_launches.ipynb)
+### [Project 1: Exploratory Data Analysis - SpaceX](https://github.com/s-anicic/Portfolio-Projects/blob/main/SpaceX_EDA_Time_series_analysis_of_launches.ipynb)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae odio tempor iaculis. Integer sollicitudin sem vitae urna luctus, a convallis sapien volutpat. 
 
 #### Technologies Used:
