@@ -3,7 +3,7 @@
 Welcome text.
 
 ## About Me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae odio tempor iaculis. Integer sollicitudin sem vitae urna luctus, a convallis sapien volutpat. Ut aliquet libero at nulla tristique, vel facilisis velit interdum.
+Melbourne-based Bachelor of Information Technology student majoring in Cloud Analytics, passionate about transforming data into actionable insights and creating solutions.
 
 ### Skills & Technologies
 - SQL
