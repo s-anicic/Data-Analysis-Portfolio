@@ -1,7 +1,3 @@
-# Data-Analysis-Portfolio
-
-Welcome text.
-
 ## About Me
 Melbourne-based Bachelor of Information Technology student majoring in Cloud Analytics, passionate about transforming data into actionable insights.
 
