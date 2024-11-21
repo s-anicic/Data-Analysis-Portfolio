@@ -8,8 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae 
 ### Skills & Technologies
 - SQL
 - Python
-- Tableau
-- PowerBI
 - Machine Learning (Scikit-learn, TensorFlow)
 - Data Visualization (Matplotlib, Seaborn, Tableau)
 - Git & GitHub
@@ -17,21 +15,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae 
 
 ## Featured Projects
 
-### [Project 1: Data Analysis on XYZ Dataset](./projects/project1.ipynb)
+### [Project 1: Exploratory Data Analysis - SpaceX](./projects/project1.ipynb)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae odio tempor iaculis. Integer sollicitudin sem vitae urna luctus, a convallis sapien volutpat. 
 
 #### Technologies Used:
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-### [Project 2: Predictive Modeling for ABC Problem](./projects/project2.ipynb)
+### [Project 2: Predictive Modeling/Machine Learning - Anime Recommendation System](./projects/project2.ipynb)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae odio tempor iaculis. Integer sollicitudin sem vitae urna luctus, a convallis sapien volutpat.
 
 #### Technologies Used:
 - Python (Scikit-learn)
 - Machine Learning
 
-### [Project 3: Time Series Forecasting](./projects/project3.ipynb)
+### [Project 3: Data Visualization/Dashboard Creation](./projects/project3.ipynb)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae odio tempor iaculis. Integer sollicitudin sem vitae urna luctus, a convallis sapien volutpat.
+
+#### Technologies Used:
+- Python (ARIMA, Prophet)
+  
+### [Project 4: SQL](./projects/project3.ipynb)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae odio tempor iaculis. Integer sollicitudin sem vitae urna luctus, a convallis sapien volutpat.
 
 #### Technologies Used:
