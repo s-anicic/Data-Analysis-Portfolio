@@ -3,7 +3,7 @@
 Welcome text.
 
 ## About Me
-Melbourne-based Bachelor of Information Technology student majoring in Cloud Analytics, passionate about transforming data into actionable insights and creating solutions.
+Melbourne-based Bachelor of Information Technology student majoring in Cloud Analytics, passionate about transforming data into actionable insights.
 
 ### Skills & Technologies
 - SQL
