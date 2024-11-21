@@ -1,5 +1,5 @@
-## About Me
-Hi, my name is Sara. I am a final-year Bachelor of Information Technology student majoring in Cloud Analytics and am passionate about transforming data into actionable insights.
+## Welcome
+Hi, I'm Sara! I am a final-year Bachelor of Information Technology student majoring in Cloud Analytics and am passionate about transforming data into actionable insights. I currently work for the Department of Education as an Education Support Staff and have years of experience in working with stakeholders to support students in their secondary education. I hope you enjoy looking through my portfolio and welcome you to contact me on LinkedIn if there's anything you'd like to discuss.
 
 ### Skills & Technologies
 - SQL
