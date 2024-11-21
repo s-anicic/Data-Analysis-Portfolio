@@ -1,10 +1,9 @@
 ## About Me
-Melbourne-based Bachelor of Information Technology student majoring in Cloud Analytics, passionate about transforming data into actionable insights.
+Hi, my name is Sara. I am a final-year Bachelor of Information Technology student majoring in Cloud Analytics and am passionate about transforming data into actionable insights.
 
 ### Skills & Technologies
 - SQL
 - Python
-- Machine Learning (Scikit-learn, TensorFlow)
 - Data Visualization (Matplotlib, Seaborn, Tableau)
 - Git & GitHub
 - Pandas, Numpy, and more...
