@@ -10,16 +10,9 @@ Hi, I'm Sara! I am a final-year Bachelor of Information Technology student major
 
 ## Featured Projects
 
-### [Project 1: Exploratory Data Analysis - SpaceX](https://github.com/s-anicic/Portfolio-Projects/blob/main/SpaceX_EDA_Time_series_analysis_of_SpaceX_launches.ipynb)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non arcu vitae odio tempor iaculis. Integer sollicitudin sem vitae urna luctus, a convallis sapien volutpat. 
+### [Project 1: Stardew Valley Fish Detail EDA](https://github.com/s-anicic/Portfolio-Projects/blob/main/Stardew_Valley_Fish_Detail_EDA.ipynb)
+In this project I used an existing dataset from Kaggle, cleaned the data, and then ran SQL queries to answer exploratory questions.
 
 #### Technologies Used:
-- Python (Pandas, Matplotlib, Statsmodels)
+- SQL
 - Google Colab
-
-### [Project 2: Predictive Modeling/Machine Learning - Anime Recommendation System]()
-In development.
-
-#### Technologies Used:
-- Python
-- Machine Learning
